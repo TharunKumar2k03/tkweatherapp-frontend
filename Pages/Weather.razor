@@ -734,7 +734,7 @@
         var humidity = forecasts.Select(f => (double)f.main.humidity).ToArray();
         var windSpeed = forecasts.Select(f => Math.Round(f.wind.speed * 3.6, 1)).ToArray(); // Convert m/s to km/h
         
-        // Update labels
+        // Update labels\
         chartLabels = forecasts.Select(f => 
             DateTimeOffset.FromUnixTimeSeconds(f.dt).DateTime.ToString("MMM dd")).ToArray();
 

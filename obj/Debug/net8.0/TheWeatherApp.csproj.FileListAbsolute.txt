@@ -2297,6 +2297,7 @@ E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\compressed\zx2sklxp9b-lfu7
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\compressed\48z04dzxk7-oyz0vx2fzb.gz
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\staticwebassets\msbuild.TheWeatherApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\compressed\9jf8viyim6-usc2lp0zr3.gz
-E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\compressed\bar5whrl7z-zdsls8ely5.gz
-E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\compressed\w7btc60oyu-1w1mg3qkp8.gz
+E:\BlazorApp\BlazorApp\TheWeatherApp\bin\Debug\net8.0\vercel.json
+E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\compressed\9jf8viyim6-2erxvr31fo.gz
+E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\compressed\bar5whrl7z-dvc4btv581.gz
+E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Debug\net8.0\compressed\w7btc60oyu-rzd73l8i5l.gz
