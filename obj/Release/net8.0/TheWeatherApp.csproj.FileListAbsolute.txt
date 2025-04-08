@@ -1133,9 +1133,6 @@ E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\8qmt2r0s6u-tj
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\u0mu20gqs0-tptq2av103.gz
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\zx2sklxp9b-lfu7j35m59.gz
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\48z04dzxk7-oyz0vx2fzb.gz
-E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\9jf8viyim6-kxw5w98ag2.gz
-E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\bar5whrl7z-g3fm7xwawo.gz
-E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\w7btc60oyu-iy1sba8tek.gz
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\staticwebassets.build.json
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\staticwebassets.development.json
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\staticwebassets.build.endpoints.json
@@ -1150,3 +1147,6 @@ E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\TheWeatherApp.dll
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\refint\TheWeatherApp.dll
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\TheWeatherApp.pdb
 E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\ref\TheWeatherApp.dll
+E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\9jf8viyim6-3ayjhmfvgk.gz
+E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\bar5whrl7z-5168gvli6c.gz
+E:\BlazorApp\BlazorApp\TheWeatherApp\obj\Release\net8.0\compressed\w7btc60oyu-29xq17nr2f.gz

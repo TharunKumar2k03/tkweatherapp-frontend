@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TheWeatherApp",
   "resources": {
-    "hash": "sha256-vWyHDMzL1IJmbUQadx3xN6RqZtH2J4AZ/GYfm0Q0wQE=",
+    "hash": "sha256-OnAadcVmZ/pAIDEjlukroSZM+s32BytQ4iItm2sm6Jc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -113,7 +113,7 @@
       "System.Xml.Linq.wasm": "sha256-+lzJ/QlxX3UYj80kHdLCWW0W/obJUfP4MByfd9R6PWc=",
       "System.Xml.ReaderWriter.wasm": "sha256-mUd5h8+fTE64BGrUiK9KiPW1wEWSm78zkkXoHn7PV8I=",
       "System.Xml.XDocument.wasm": "sha256-A5Kr6SVBn1DKnntYIyA+NUfomE1PtQM8sA2KkvYxwvc=",
-      "TheWeatherApp.wasm": "sha256-COaI1qTzH/je/RJGV/VaVJJceNM4eOxADpRXHw/T9X0=",
+      "TheWeatherApp.wasm": "sha256-tVI4EXDSR4ilPIVUeEBr0QdmtxaAkUB3xtD3htnOyRI=",
       "Websocket.Client.wasm": "sha256-6BUeDh+wN+tE97n/xZ5FpCYyaVYitXH44JLzRcssrz8="
     }
   },

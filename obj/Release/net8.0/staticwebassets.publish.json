@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B1LjxRdx+OofVXF3JAikiNkv0A/7R3pemU+b3S06fTI=",
+  "Hash": "wg8y1TLp/2TU99MaWSaeKRWrBHHeEY88NUsBd2eLwV8=",
   "Source": "TheWeatherApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "3h3u66gl9w",
-      "Integrity": "6bQLSiI9TIH9HY5x4bYeB48A950bdf7QE7eQZXTiE1o=",
+      "Fingerprint": "l6703hx8gf",
+      "Integrity": "owTvYzGISb+O9Iu9gKqKcSEOaju/oVm9XCt6My95ON4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -1634,7 +1634,7 @@
       "OriginalItemSpec": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\webcil\\publish\\System.Xml.Linq.wasm"
     },
     {
-      "Identity": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-kxw5w98ag2.br",
+      "Identity": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-3ayjhmfvgk.br",
       "SourceId": "TheWeatherApp",
       "SourceType": "Computed",
       "ContentRoot": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1648,14 +1648,14 @@
       "RelatedAsset": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\webcil\\publish\\TheWeatherApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "ozpa0121md",
-      "Integrity": "FKZIqJhpIhpq6OgM1JF0kSWKYxvT7KvMTeYbksY3yDA=",
+      "Fingerprint": "iz7hhndmd3",
+      "Integrity": "UgAVNXf3GUi9KLUTN8ZB3cUWb1ZrYn7kqSjnMIIOKCk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\webcil\\publish\\TheWeatherApp.wasm"
     },
     {
-      "Identity": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-kxw5w98ag2.gz",
+      "Identity": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-3ayjhmfvgk.gz",
       "SourceId": "TheWeatherApp",
       "SourceType": "Computed",
       "ContentRoot": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1669,8 +1669,8 @@
       "RelatedAsset": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\webcil\\publish\\TheWeatherApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sweignev02",
-      "Integrity": "BHg/fgf/kGuP84IxSVvapPj2d8kHRB5WppWvmq6j7B0=",
+      "Fingerprint": "7i9kd6irfm",
+      "Integrity": "H1LiPXLIUIJY46Ws0ZJoRChp7bBk7B7at9Us0Wkmuhk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\webcil\\publish\\TheWeatherApp.wasm"
@@ -2684,7 +2684,7 @@
       "OriginalItemSpec": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\webcil\\publish\\System.Formats.Asn1.wasm"
     },
     {
-      "Identity": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-3h3u66gl9w.br",
+      "Identity": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-l6703hx8gf.br",
       "SourceId": "TheWeatherApp",
       "SourceType": "Computed",
       "ContentRoot": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -2698,14 +2698,14 @@
       "RelatedAsset": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "lyfix38m1n",
-      "Integrity": "Tc45zKKMi00GmnYWbwO0lS60C3XbbaUZyFOj1tBEffo=",
+      "Fingerprint": "5scgdd64dc",
+      "Integrity": "tYWzOnB15AIGPEaOGU8OjusmGSXFUYKYQPIbGdpytS4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-3h3u66gl9w.gz",
+      "Identity": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-l6703hx8gf.gz",
       "SourceId": "TheWeatherApp",
       "SourceType": "Computed",
       "ContentRoot": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -2719,8 +2719,8 @@
       "RelatedAsset": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8bpjy0db0h",
-      "Integrity": "HAemgkguduqJnPYB7LVBQeFUaX4TvCTaZ9bQtZeG6hc=",
+      "Fingerprint": "bkcaxy1a6n",
+      "Integrity": "G3deFi6mpgtfI0B2/rrBx/S8vYFRg/ByoGx0tbLU/U0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -6730,8 +6730,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "kxw5w98ag2",
-      "Integrity": "COaI1qTzH/je/RJGV/VaVJJceNM4eOxADpRXHw/T9X0=",
+      "Fingerprint": "3ayjhmfvgk",
+      "Integrity": "tVI4EXDSR4ilPIVUeEBr0QdmtxaAkUB3xtD3htnOyRI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\webcil\\publish\\TheWeatherApp.wasm"
@@ -7225,11 +7225,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6bQLSiI9TIH9HY5x4bYeB48A950bdf7QE7eQZXTiE1o=\""
+          "Value": "\"owTvYzGISb+O9Iu9gKqKcSEOaju/oVm9XCt6My95ON4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:41 GMT"
+          "Value": "Tue, 08 Apr 2025 12:14:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7239,13 +7239,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6bQLSiI9TIH9HY5x4bYeB48A950bdf7QE7eQZXTiE1o="
+          "Value": "sha256-owTvYzGISb+O9Iu9gKqKcSEOaju/oVm9XCt6My95ON4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-3h3u66gl9w.br",
+      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-l6703hx8gf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7264,11 +7264,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tc45zKKMi00GmnYWbwO0lS60C3XbbaUZyFOj1tBEffo=\""
+          "Value": "\"tYWzOnB15AIGPEaOGU8OjusmGSXFUYKYQPIbGdpytS4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:41 GMT"
+          "Value": "Tue, 08 Apr 2025 12:14:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7288,24 +7288,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6bQLSiI9TIH9HY5x4bYeB48A950bdf7QE7eQZXTiE1o=\""
+          "Value": "W/\"owTvYzGISb+O9Iu9gKqKcSEOaju/oVm9XCt6My95ON4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6bQLSiI9TIH9HY5x4bYeB48A950bdf7QE7eQZXTiE1o="
+          "Value": "sha256-owTvYzGISb+O9Iu9gKqKcSEOaju/oVm9XCt6My95ON4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-3h3u66gl9w.gz",
+      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-l6703hx8gf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000209819555"
+          "Quality": "0.000209907641"
         }
       ],
       "ResponseHeaders": [
@@ -7315,15 +7315,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4765"
+          "Value": "4763"
         },
         {
           "Name": "ETag",
-          "Value": "\"HAemgkguduqJnPYB7LVBQeFUaX4TvCTaZ9bQtZeG6hc=\""
+          "Value": "\"G3deFi6mpgtfI0B2/rrBx/S8vYFRg/ByoGx0tbLU/U0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:41 GMT"
+          "Value": "Tue, 08 Apr 2025 12:14:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7343,19 +7343,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6bQLSiI9TIH9HY5x4bYeB48A950bdf7QE7eQZXTiE1o=\""
+          "Value": "W/\"owTvYzGISb+O9Iu9gKqKcSEOaju/oVm9XCt6My95ON4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6bQLSiI9TIH9HY5x4bYeB48A950bdf7QE7eQZXTiE1o="
+          "Value": "sha256-owTvYzGISb+O9Iu9gKqKcSEOaju/oVm9XCt6My95ON4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-3h3u66gl9w.br",
+      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-l6703hx8gf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7372,11 +7372,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tc45zKKMi00GmnYWbwO0lS60C3XbbaUZyFOj1tBEffo=\""
+          "Value": "\"tYWzOnB15AIGPEaOGU8OjusmGSXFUYKYQPIbGdpytS4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:41 GMT"
+          "Value": "Tue, 08 Apr 2025 12:14:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7394,13 +7394,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Tc45zKKMi00GmnYWbwO0lS60C3XbbaUZyFOj1tBEffo="
+          "Value": "sha256-tYWzOnB15AIGPEaOGU8OjusmGSXFUYKYQPIbGdpytS4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-3h3u66gl9w.gz",
+      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\je2v48tcm9-l6703hx8gf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7409,7 +7409,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4765"
+          "Value": "4763"
         },
         {
           "Name": "Content-Type",
@@ -7417,11 +7417,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HAemgkguduqJnPYB7LVBQeFUaX4TvCTaZ9bQtZeG6hc=\""
+          "Value": "\"G3deFi6mpgtfI0B2/rrBx/S8vYFRg/ByoGx0tbLU/U0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:41 GMT"
+          "Value": "Tue, 08 Apr 2025 12:14:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7439,7 +7439,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HAemgkguduqJnPYB7LVBQeFUaX4TvCTaZ9bQtZeG6hc="
+          "Value": "sha256-G3deFi6mpgtfI0B2/rrBx/S8vYFRg/ByoGx0tbLU/U0="
         }
       ]
     },
@@ -7560,7 +7560,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:09 GMT"
+          "Value": "Wed, 04 Dec 2024 05:50:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7658,7 +7658,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:09 GMT"
+          "Value": "Wed, 04 Dec 2024 05:50:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7742,7 +7742,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:10 GMT"
+          "Value": "Tue, 03 Dec 2024 17:31:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7895,7 +7895,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:10 GMT"
+          "Value": "Tue, 03 Dec 2024 17:31:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7979,7 +7979,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:10 GMT"
+          "Value": "Tue, 03 Dec 2024 17:31:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8132,7 +8132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:10 GMT"
+          "Value": "Tue, 03 Dec 2024 17:31:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8216,7 +8216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:10 GMT"
+          "Value": "Tue, 03 Dec 2024 17:31:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8369,7 +8369,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:10 GMT"
+          "Value": "Tue, 03 Dec 2024 17:31:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8508,7 +8508,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:10 GMT"
+          "Value": "Tue, 03 Dec 2024 17:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8606,7 +8606,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:10 GMT"
+          "Value": "Tue, 03 Dec 2024 17:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31856,12 +31856,12 @@
     },
     {
       "Route": "_framework/TheWeatherApp.wasm",
-      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-kxw5w98ag2.br",
+      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-3ayjhmfvgk.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000020656036"
+          "Quality": "0.000020615581"
         }
       ],
       "ResponseHeaders": [
@@ -31871,15 +31871,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "48411"
+          "Value": "48506"
         },
         {
           "Name": "ETag",
-          "Value": "\"FKZIqJhpIhpq6OgM1JF0kSWKYxvT7KvMTeYbksY3yDA=\""
+          "Value": "\"UgAVNXf3GUi9KLUTN8ZB3cUWb1ZrYn7kqSjnMIIOKCk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:39 GMT"
+          "Value": "Tue, 08 Apr 2025 12:00:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31899,24 +31899,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"COaI1qTzH/je/RJGV/VaVJJceNM4eOxADpRXHw/T9X0=\""
+          "Value": "W/\"tVI4EXDSR4ilPIVUeEBr0QdmtxaAkUB3xtD3htnOyRI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-COaI1qTzH/je/RJGV/VaVJJceNM4eOxADpRXHw/T9X0="
+          "Value": "sha256-tVI4EXDSR4ilPIVUeEBr0QdmtxaAkUB3xtD3htnOyRI="
         }
       ]
     },
     {
       "Route": "_framework/TheWeatherApp.wasm",
-      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-kxw5w98ag2.gz",
+      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-3ayjhmfvgk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000016279751"
+          "Quality": "0.000016278426"
         }
       ],
       "ResponseHeaders": [
@@ -31926,15 +31926,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "61425"
+          "Value": "61430"
         },
         {
           "Name": "ETag",
-          "Value": "\"BHg/fgf/kGuP84IxSVvapPj2d8kHRB5WppWvmq6j7B0=\""
+          "Value": "\"H1LiPXLIUIJY46Ws0ZJoRChp7bBk7B7at9Us0Wkmuhk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:39 GMT"
+          "Value": "Tue, 08 Apr 2025 12:00:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31954,13 +31954,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"COaI1qTzH/je/RJGV/VaVJJceNM4eOxADpRXHw/T9X0=\""
+          "Value": "W/\"tVI4EXDSR4ilPIVUeEBr0QdmtxaAkUB3xtD3htnOyRI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-COaI1qTzH/je/RJGV/VaVJJceNM4eOxADpRXHw/T9X0="
+          "Value": "sha256-tVI4EXDSR4ilPIVUeEBr0QdmtxaAkUB3xtD3htnOyRI="
         }
       ]
     },
@@ -31983,11 +31983,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"COaI1qTzH/je/RJGV/VaVJJceNM4eOxADpRXHw/T9X0=\""
+          "Value": "\"tVI4EXDSR4ilPIVUeEBr0QdmtxaAkUB3xtD3htnOyRI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:39 GMT"
+          "Value": "Tue, 08 Apr 2025 12:00:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31997,13 +31997,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-COaI1qTzH/je/RJGV/VaVJJceNM4eOxADpRXHw/T9X0="
+          "Value": "sha256-tVI4EXDSR4ilPIVUeEBr0QdmtxaAkUB3xtD3htnOyRI="
         }
       ]
     },
     {
       "Route": "_framework/TheWeatherApp.wasm.br",
-      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-kxw5w98ag2.br",
+      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-3ayjhmfvgk.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -32012,7 +32012,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "48411"
+          "Value": "48506"
         },
         {
           "Name": "Content-Type",
@@ -32020,11 +32020,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FKZIqJhpIhpq6OgM1JF0kSWKYxvT7KvMTeYbksY3yDA=\""
+          "Value": "\"UgAVNXf3GUi9KLUTN8ZB3cUWb1ZrYn7kqSjnMIIOKCk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:39 GMT"
+          "Value": "Tue, 08 Apr 2025 12:00:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32042,13 +32042,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FKZIqJhpIhpq6OgM1JF0kSWKYxvT7KvMTeYbksY3yDA="
+          "Value": "sha256-UgAVNXf3GUi9KLUTN8ZB3cUWb1ZrYn7kqSjnMIIOKCk="
         }
       ]
     },
     {
       "Route": "_framework/TheWeatherApp.wasm.gz",
-      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-kxw5w98ag2.gz",
+      "AssetFile": "E:\\BlazorApp\\BlazorApp\\TheWeatherApp\\obj\\Release\\net8.0\\compressed\\publish\\9xv8k8n89o-3ayjhmfvgk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -32057,7 +32057,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "61425"
+          "Value": "61430"
         },
         {
           "Name": "Content-Type",
@@ -32065,11 +32065,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BHg/fgf/kGuP84IxSVvapPj2d8kHRB5WppWvmq6j7B0=\""
+          "Value": "\"H1LiPXLIUIJY46Ws0ZJoRChp7bBk7B7at9Us0Wkmuhk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 11:43:39 GMT"
+          "Value": "Tue, 08 Apr 2025 12:00:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32087,7 +32087,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BHg/fgf/kGuP84IxSVvapPj2d8kHRB5WppWvmq6j7B0="
+          "Value": "sha256-H1LiPXLIUIJY46Ws0ZJoRChp7bBk7B7at9Us0Wkmuhk="
         }
       ]
     },
