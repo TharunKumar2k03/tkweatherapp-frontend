@@ -227,7 +227,7 @@
 
         try
         {
-            var response = await HttpClient.GetAsync($"http://localhost:5188/favorites/{currentUser.Email}");
+            var response = await HttpClient.GetAsync($"https://tkweatherapp-backend-production.up.railway.app/favorites/{currentUser.Email}");
             if (response.IsSuccessStatusCode)
             {
                 var userFavorites = await response.Content.ReadFromJsonAsync<UserFavorites>();
@@ -254,7 +254,7 @@
                 City = cityName
             };
 
-            var response = await HttpClient.PostAsJsonAsync("http://localhost:5188/favorites/remove", favoriteWeather);
+            var response = await HttpClient.PostAsJsonAsync("https://tkweatherapp-backend-production.up.railway.app/favorites/remove", favoriteWeather);
             if (response.IsSuccessStatusCode)
             {
                 cityWeather.RemoveAll(w => w.CityName == cityName);

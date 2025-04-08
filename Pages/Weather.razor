@@ -568,7 +568,7 @@
         {
             if (currentUser != null)
             {
-                var response = await HttpClient.GetFromJsonAsync<UserFavorites>($"http://localhost:5188/favorites/{currentUser.Email}");
+                var response = await HttpClient.GetFromJsonAsync<UserFavorites>($"https://tkweatherapp-backend-production.up.railway.app/favorites/{currentUser.Email}");
                 if (response != null)
                 {
                     favoriteCities = response.FavoriteCities;
@@ -598,7 +598,7 @@
                 City = searchedCityWeather.name
             };
 
-            var response = await HttpClient.PostAsJsonAsync("http://localhost:5188/favorites/add", favorite);
+            var response = await HttpClient.PostAsJsonAsync("https://tkweatherapp-backend-production.up.railway.app/favorites/add", favorite);
             
             if (response.IsSuccessStatusCode)
             {
