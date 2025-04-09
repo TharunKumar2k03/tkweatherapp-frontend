@@ -3,6 +3,7 @@
   "public": true,
   "cleanUrls": true,
   "trailingSlash": false,
+  "outputDirectory": "wwwroot",
   "github": {
     "silent": true
   },
