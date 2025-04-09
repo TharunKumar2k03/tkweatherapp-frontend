@@ -1,35 +1,41 @@
 {
   "version": 2,
   "public": true,
-  "builds": [
-    {
-      "src": "wwwroot/**/*",
-      "use": "@vercel/static"
-    }
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "github": {
+    "silent": true
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
   ],
-  "routes": [
+  "headers": [
     {
-      "src": "/_framework/(.*)",
-      "dest": "/_framework/$1",
-      "headers": {
-        "content-type": "application/wasm"
-      }
+      "source": "/_framework/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/octet-stream"
+        }
+      ]
     },
     {
-      "src": "/_content/(.*)",
-      "dest": "/_content/$1"
+      "source": "/_framework/blazor.webassembly.js",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/javascript"
+        }
+      ]
     },
     {
-      "src": "/css/(.*)",
-      "dest": "/css/$1"
-    },
-    {
-      "src": "/js/(.*)",
-      "dest": "/js/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/_framework/wasm/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/wasm"
+        }
+      ]
     }
   ]
 }
